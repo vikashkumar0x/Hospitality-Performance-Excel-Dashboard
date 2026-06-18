@@ -16,7 +16,7 @@ This project analyzes hospitality industry performance using Microsoft Excel. Th
 
 ## Dashboard Preview
 
-![Hospitality Dashboard](dashboard.png)
+Hospitality Excel Dashboard.png
 
 ## Key Metrics
 

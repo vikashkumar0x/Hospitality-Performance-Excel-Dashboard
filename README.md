@@ -14,7 +14,9 @@ This project analyzes hospitality industry performance using Microsoft Excel. Th
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+## Dashboard Preview
+
+![Hospitality Dashboard](dashboard.png)
 
 ## Key Metrics
 
@@ -46,5 +48,7 @@ This project analyzes hospitality industry performance using Microsoft Excel. Th
 Aspiring Data Analyst
 
 📧 Email: vikashkumar07x@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/vikash-kumar-31803933a/
+
 💻 GitHub: https://github.com/vikashkumar0x/Hospitality-Performance-Excel-Dashboard/new/main?filename=README.md
